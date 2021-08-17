@@ -11,7 +11,7 @@ Don't have the API subscription? You can request a [temporary license](https://p
 
 
 ## Screenshots
-* Source and Target Files  
+* Source File 
 ![](Screenshots/source.PNG) 
 * Resultant File
 ![](Screenshots/output.PNG)
