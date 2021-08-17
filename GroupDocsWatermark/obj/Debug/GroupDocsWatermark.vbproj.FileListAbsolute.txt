@@ -1,0 +1,14 @@
+D:\GroupDocsWatermark\GroupDocsWatermark\obj\Debug\GroupDocsWatermark.vbprojAssemblyReference.cache
+D:\GroupDocsWatermark\GroupDocsWatermark\obj\Debug\GroupDocsWatermark.Resources.resources
+D:\GroupDocsWatermark\GroupDocsWatermark\obj\Debug\GroupDocsWatermark.vbproj.GenerateResource.cache
+D:\GroupDocsWatermark\GroupDocsWatermark\obj\Debug\GroupDocsWatermark.vbproj.CoreCompileInputs.cache
+D:\GroupDocsWatermark\GroupDocsWatermark\bin\Debug\GroupDocsWatermark.exe.config
+D:\GroupDocsWatermark\GroupDocsWatermark\bin\Debug\GroupDocsWatermark.exe
+D:\GroupDocsWatermark\GroupDocsWatermark\bin\Debug\GroupDocsWatermark.pdb
+D:\GroupDocsWatermark\GroupDocsWatermark\bin\Debug\GroupDocsWatermark.xml
+D:\GroupDocsWatermark\GroupDocsWatermark\bin\Debug\GroupDocs.Watermark.dll
+D:\GroupDocsWatermark\GroupDocsWatermark\bin\Debug\GroupDocs.Watermark.xml
+D:\GroupDocsWatermark\GroupDocsWatermark\obj\Debug\GroupDocsWatermark.vbproj.CopyComplete
+D:\GroupDocsWatermark\GroupDocsWatermark\obj\Debug\GroupDocsWatermark.exe
+D:\GroupDocsWatermark\GroupDocsWatermark\obj\Debug\GroupDocsWatermark.xml
+D:\GroupDocsWatermark\GroupDocsWatermark\obj\Debug\GroupDocsWatermark.pdb
