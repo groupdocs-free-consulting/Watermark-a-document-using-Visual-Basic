@@ -17,7 +17,7 @@ Don't have the API subscription? You can request a [temporary license](https://p
 ![](Screenshots/output.PNG)
 
 # Interested in GroupDocs free consulting project?
-[If you are also interested in a free consulting project by GroupDocs team then please view details on this page](https://github.com/groupdocs-free-consulting/)
+[If you are also interested in a free consulting project by GroupDocs team then please view details on this page](https://forum.groupdocs.com/c/free-consulting/37)
 
 If you have any questions about GroupDocs APIs, please feel free to post your query in [GroupDocs Forum](https://forum.groupdocs.com/).
 
